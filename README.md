@@ -50,11 +50,14 @@ HiveMind aims to:
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
-- **React**: Dynamic, interactive UI.  
+- **html, js **: Dynamic, interactive UI.  
 - **Tailwind CSS**: For modern, responsive design.  
 
 ### **Backend**  
--upcoming
+- **Django**
+- **PostgreSQL**: For scalable, secure data storage.
+- **RESTful API**: For seamless integration with frontend.
+
 
 ### Installation  
 
