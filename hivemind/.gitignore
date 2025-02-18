@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+
+# Django/Migrations
+*/__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+**/migrations/*
+
+# Environment Variables (Secret Keys)
+.env
+.venv
+.DS_Store
+
+# Logs & Cache
+logs/
+*.log
+.pytest_cache/
+.vscode/
